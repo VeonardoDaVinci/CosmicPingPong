@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Pas Kuipera.ogg-5fa6158c5a87d993d3a47c23a3ebfb2e.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Pas Kuipera.ogg"
+dest_files=[ "res://.import/Pas Kuipera.ogg-5fa6158c5a87d993d3a47c23a3ebfb2e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

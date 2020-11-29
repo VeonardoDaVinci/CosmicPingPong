@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Jowisz.ogg-96412965a3a6817e60fb5d835677c6b3.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Jowisz.ogg"
+dest_files=[ "res://.import/Jowisz.ogg-96412965a3a6817e60fb5d835677c6b3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

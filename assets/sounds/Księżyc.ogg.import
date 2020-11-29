@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Księżyc.ogg-4dfd96c74ef8be275466e55f27c8dcff.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Księżyc.ogg"
+dest_files=[ "res://.import/Księżyc.ogg-4dfd96c74ef8be275466e55f27c8dcff.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

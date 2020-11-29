@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Układ słoneczny.ogg-9b1053714301cdbe36dc56c2f641139b.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Układ słoneczny.ogg"
+dest_files=[ "res://.import/Układ słoneczny.ogg-9b1053714301cdbe36dc56c2f641139b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

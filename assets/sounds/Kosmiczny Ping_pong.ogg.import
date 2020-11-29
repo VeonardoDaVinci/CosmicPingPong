@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Kosmiczny Ping_pong.ogg-2e3c9265a092606f9c93939412d632da.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Kosmiczny Ping_pong.ogg"
+dest_files=[ "res://.import/Kosmiczny Ping_pong.ogg-2e3c9265a092606f9c93939412d632da.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

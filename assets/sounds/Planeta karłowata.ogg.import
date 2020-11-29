@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Planeta karłowata.ogg-c2666c61c4f417227be5914ab3afabbe.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Planeta karłowata.ogg"
+dest_files=[ "res://.import/Planeta karłowata.ogg-c2666c61c4f417227be5914ab3afabbe.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

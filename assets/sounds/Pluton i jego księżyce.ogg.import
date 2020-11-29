@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Pluton i jego księżyce.ogg-d6b60ca96371e1887f4d0a9a5b66bbb3.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Pluton i jego księżyce.ogg"
+dest_files=[ "res://.import/Pluton i jego księżyce.ogg-d6b60ca96371e1887f4d0a9a5b66bbb3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

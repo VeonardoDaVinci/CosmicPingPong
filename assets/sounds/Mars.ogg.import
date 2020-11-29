@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Mars.ogg-19c39e8c4b280f43f85118e66433a35a.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Mars.ogg"
+dest_files=[ "res://.import/Mars.ogg-19c39e8c4b280f43f85118e66433a35a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

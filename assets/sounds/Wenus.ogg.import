@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Wenus.ogg-b5faeb8b64a90bfd06bbfd77f5598ae2.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/Wenus.ogg"
+dest_files=[ "res://.import/Wenus.ogg-b5faeb8b64a90bfd06bbfd77f5598ae2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
